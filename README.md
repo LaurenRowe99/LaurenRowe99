@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently a student at the University of Pretoria
+- 🌱 I’m currently learning software engineering
+- 👀 I’m interested in Gaming, Music, Anime and Cardistry
+- 😄 Pronouns: She/Her
