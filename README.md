@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently a student at the University of Pretoria
-- 🌱 I’m currently studying COmputer Science
+- 🌱 I’m currently studying Computer Science
 - 👀 I’m interested in Gaming, Music, Anime and Cardistry
 - 😄 Pronouns: She/Her
