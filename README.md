@@ -22,4 +22,6 @@ I have always enjoyed the challenge of backend development, however, I have grow
 I still have many things to learn, and will always have many things to learn - that's the amazing thing about software development! 
 Why not join me on my journey? ✨
 
+LinkedIn: https://www.linkedin.com/in/lauren-rowe-63b15b18b/
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaurenRowe99)](https://github.com/anuraghazra/github-readme-stats)
