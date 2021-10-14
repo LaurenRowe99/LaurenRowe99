@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am currently in my final year of Computer Science at the University of Pretoria.
 
-I have always enjoyed the challenge of backend development, however, I have grown a love for UI/UX design. Of course I want to create programs that do absolutely amazing things, but what's the use of that amazing thing if it't not just as amazing to use?
+I have always enjoyed the challenge of backend development, however, I have grown a love for UI/UX design. Of course I want to create programs that do absolutely amazing things, but what's the use of that amazing thing if it's not just as amazing to use?
 
 I still have many things to learn, and will always have many things to learn - that's the amazing thing about software development! 
 
